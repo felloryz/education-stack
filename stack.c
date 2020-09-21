@@ -64,7 +64,7 @@ int main(void)
             printf("Shutdown!\n");
             break;
         }
-        else printf("Wrong command!\n");
+        else printf("Wrong command!\n\n");
     }
     return 0;
 }
