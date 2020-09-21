@@ -35,6 +35,7 @@ int main(void)
     node_t* head = NULL;
     int command, number;
 
+    printf("STACK - Feodor Ryzhov IU4-32b\n");
     printf("Command list\n");
     printf("1 - add\n");
     printf("2 - delete\n");
